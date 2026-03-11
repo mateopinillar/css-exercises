@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.subsection{
+    background-color:   lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.subsection.middle {
+    font-size: 24px;
+}
+
+#one{
+    color:blue;
+    font-size: 36px;
+}
+
+#two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
